@@ -43,9 +43,9 @@
     $a3 = array(-12, -676, -34, -99, -12, -45, -23, -777, -123, 45, 3498, 23);
     $a4 = array(array(45, 56), array(67, 345), array(1212, -23));
 
-    // funktion zum finden des niedrigsten wertes
+    // funktionen zum finden des niedrigsten wertes
 
-    // funktion zum berechnen der summe eines arrays
+    // funktionen zum berechnen der summe eines arrays
 
 
     ?>
