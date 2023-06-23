@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paul</title>
 
+
     <?php 
+    // Hi Paul ich hab schon mal angefangen es steht alles da was gemacht werden muss!
     ini_set("error_reporting", 1);
     $benutzername = $_POST["u"];
     $passwort1 = $_POST["p1"];
@@ -32,7 +34,7 @@
     // funktion wenn benutzername nicht vorhanden zu array hinzufügen mit passwort 
     // ...
     $_["test"] = "45"; # => "neuer benutzer";
-    var_dump($_);
+    //var_dump($_);
 
     // funktion zum umwandeln eines Strings zu einem Array
     // tipp gibt es schon explo...
