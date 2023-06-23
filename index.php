@@ -25,7 +25,7 @@
     }
 
 
-    // neues array deklariren in dem bentzer mit passwort gespeichert werden kann key value pair (passwörter erfinden)
+    // neues array initialisiren in dem bentzer mit passwort gespeichert werden kann key value pair (passwörter erfinden)
     // ...
     $_ = array("" => "");
 
